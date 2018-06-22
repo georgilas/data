@@ -23,6 +23,12 @@
 			"ends": "2018-06-20",
 			"dur": 1,
 			"type": "special"
+		},
+		{
+			"starts": "2018-06-25",
+			"ends": "2018-06-25",
+			"dur": 1,
+			"type": "special"
 		}
 	]
 }
