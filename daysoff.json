@@ -29,6 +29,12 @@
 			"ends": "2018-06-25",
 			"dur": 1,
 			"type": "special"
+		},
+		{
+			"starts": "2018-06-26",
+			"ends": "2018-06-27",
+			"dur": 2,
+			"type": "medical"
 		}
 	]
 }
