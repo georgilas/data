@@ -89,6 +89,12 @@
 			"ends": "2018-10-12",
 			"dur": 3,
 			"type": "medical"
+		},
+		{
+			"starts": "2018-10-31",
+			"ends": "2018-10-31",
+			"dur": 1,
+			"type": "special"
 		}
 	]
 }
